@@ -1,3 +1,2 @@
 eth-account
 eth-utils
-multiprocessing
