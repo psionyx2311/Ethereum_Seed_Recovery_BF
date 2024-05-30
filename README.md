@@ -35,6 +35,13 @@ This Python script is designed to bruteforce Ethereum wallet addresses using par
     (pip3 for Linux)
     ```
 
+3. Run:
+    ```sh
+    python seedfarmer.py
+
+    (python3 for Linux)
+    ```
+
 ### Usage
 
 1. Input the number of CPU cores to use (0 for all available cores).
